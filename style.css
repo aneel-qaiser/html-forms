@@ -1,0 +1,16 @@
+main {
+    margin: 10px 0 0 10px;
+}
+
+.group input, textarea {
+    display: flex;
+    width: 98%;
+}
+
+.group textarea {
+    height: 300px;
+}
+
+.item {
+    margin-bottom: 30px;
+}
